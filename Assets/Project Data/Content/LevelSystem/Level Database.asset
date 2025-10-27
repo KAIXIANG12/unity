@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 576c1c6fe8f206f4c9684a29546f65f3, type: 3}
+  m_Name: Level Database
+  m_EditorClassIdentifier: 
+  levels:
+  - {fileID: 11400000, guid: a94ef8d787500744f9a07c27361115ed, type: 2}
+  - {fileID: 11400000, guid: b517a5c0953165e47a04bc7e3f53b28a, type: 2}
+  themes:
+  - Default
+  - Food
+  - Office
+  props:
+  - themeId: 2
+    prefab: {fileID: 4878805349331870412, guid: 0b0c265c113939c469f2dfbc793cb883,
+      type: 3}
+    cost: 10
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 2
+    prefab: {fileID: 5221540286459184689, guid: 68571f7d0b0640e4981b183d2d4d41f1,
+      type: 3}
+    cost: 8
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 2
+    prefab: {fileID: 1642523881250197057, guid: 1f55a464544ce35449c0f93b08b3f07f,
+      type: 3}
+    cost: 6
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 2
+    prefab: {fileID: 4069075430286958895, guid: 2bcd6c03cd8b55c4c8e979416934f5dc,
+      type: 3}
+    cost: 6
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 2
+    prefab: {fileID: 4446781235222258323, guid: fa9521955c3fae3499784ced898c9f78,
+      type: 3}
+    cost: 4
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 2
+    prefab: {fileID: 7796270535330934218, guid: d077364144efa2f40ba5a656332fdb43,
+      type: 3}
+    cost: 1
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 2
+    prefab: {fileID: 6156381885218858162, guid: ec627fd0e38e7a84c8181b9d02fc826d,
+      type: 3}
+    cost: 5
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 2
+    prefab: {fileID: 1663405095104683505, guid: 78542ad5d8e1ed44c981ee023e4371b3,
+      type: 3}
+    cost: 4
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 2
+    prefab: {fileID: 494589145549766739, guid: 5246b6653518f4140931ddd812d30242, type: 3}
+    cost: 2
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 2
+    prefab: {fileID: 9064628351599556389, guid: 0a0f1d2209b8e944fb997cfc4085ae83,
+      type: 3}
+    cost: 3
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 1
+    prefab: {fileID: 7498743615077647902, guid: 8b544e7fb40fabd4b888721e71c8429b,
+      type: 3}
+    cost: 2
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 1
+    prefab: {fileID: 251073841646544894, guid: 2aba4eea750a14a46af249e759c00596, type: 3}
+    cost: 4
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 1
+    prefab: {fileID: 724927841078632612, guid: e8b871afa0e26a44a95a29b27688817f, type: 3}
+    cost: 10
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 1
+    prefab: {fileID: 4768904725303199862, guid: 3ca504645db644549be5b99305f153c7,
+      type: 3}
+    cost: 7
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 1
+    prefab: {fileID: 2187088985789957107, guid: 20466ab2d18b4ee44a616633c0696e7f,
+      type: 3}
+    cost: 5
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 1
+    prefab: {fileID: 6874154709362762671, guid: b95197a3b7f4cd34da9aa1d03a054f74,
+      type: 3}
+    cost: 1
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 1
+    prefab: {fileID: 5008391238082018047, guid: 097dd25699d41eb4a9d80fa3ddca3c18,
+      type: 3}
+    cost: 3
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 1
+    prefab: {fileID: 1599981705156840509, guid: fa51dd64c8f954346bc6f0b5a576051e,
+      type: 3}
+    cost: 6
+    spawnPosition: {x: 0, y: 0, z: 0}
+  - themeId: 1
+    prefab: {fileID: 3363711099471120471, guid: 1fdc67ce66d31644a959db167ea9b4c8,
+      type: 3}
+    cost: 8
+    spawnPosition: {x: 0, y: 0, z: 0}

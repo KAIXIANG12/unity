@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae706b69be104ac438445db299366832, type: 3}
+  m_Name: Timer Upgrade
+  m_EditorClassIdentifier: 
+  upgradeType: 3
+  title: Time
+  icon: {fileID: 21300000, guid: e41a973af71a6894993c2b43d1f0a20f, type: 3}
+  disabledIcon: {fileID: 21300000, guid: 8ebdd08da7d078b40bd28fac76e78a65, type: 3}
+  upgrades:
+  - price: 0
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 15
+  - price: 40
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 17
+  - price: 100
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 19
+  - price: 200
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 21
+  - price: 350
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 23
+  - price: 500
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 25
+  - price: 700
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 27
+  - price: 1000
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 29
+  - price: 1400
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 31
+  - price: 2000
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 32
+  - price: 2500
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 33
+  - price: 3000
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 34
+  - price: 4000
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    seconds: 35

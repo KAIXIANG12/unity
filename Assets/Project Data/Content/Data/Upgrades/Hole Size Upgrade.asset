@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db4aa669930e2bf4c822932d1d83af87, type: 3}
+  m_Name: Hole Size Upgrade
+  m_EditorClassIdentifier: 
+  upgradeType: 1
+  title: Size
+  icon: {fileID: 21300000, guid: 003361e50c84dad4d95a08df29c2e2ee, type: 3}
+  disabledIcon: {fileID: 21300000, guid: 8ebdd08da7d078b40bd28fac76e78a65, type: 3}
+  upgrades:
+  - price: 0
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 1
+    maxSpeed: 3
+    cameraOffsetMultiplier: 1
+  - price: 20
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 1.2
+    maxSpeed: 4
+    cameraOffsetMultiplier: 1.15
+  - price: 40
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 1.5
+    maxSpeed: 5.5
+    cameraOffsetMultiplier: 1.3
+  - price: 70
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 2
+    maxSpeed: 7
+    cameraOffsetMultiplier: 1.4
+  - price: 100
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 2.5
+    maxSpeed: 9
+    cameraOffsetMultiplier: 1.5
+  - price: 150
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 3
+    maxSpeed: 12
+    cameraOffsetMultiplier: 1.7
+  - price: 250
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 3.7
+    maxSpeed: 15
+    cameraOffsetMultiplier: 1.9
+  - price: 500
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 4.5
+    maxSpeed: 18
+    cameraOffsetMultiplier: 2.1
+  - price: 1000
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 5.5
+    maxSpeed: 21
+    cameraOffsetMultiplier: 2.3
+  - price: 1800
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 6.5
+    maxSpeed: 24
+    cameraOffsetMultiplier: 2.5
+  - price: 2600
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 8
+    maxSpeed: 27
+    cameraOffsetMultiplier: 2.7
+  - price: 4000
+    currencyType: 0
+    previewSprite: {fileID: 0}
+    holeRadius: 10
+    maxSpeed: 30
+    cameraOffsetMultiplier: 2.9
+  transitionDuration: 0.25
+  transitionEase: 14

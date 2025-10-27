@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7849743226bbdfc4b94365052ad63b65, type: 3}
+  m_Name: Store Database
+  m_EditorClassIdentifier: 
+  tabs:
+  - uniqueId: 9/3/2023 12:18:40 AM_179810
+    name: Noob
+    type: 0
+    previewType: 0
+    previewPrefab: {fileID: 0}
+    backgroundColor: {r: 0, g: 0.7058824, b: 1, a: 1}
+    productBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  - uniqueId: 9/3/2023 12:18:40 AM_179810
+    name: Pro
+    type: 0
+    previewType: 0
+    previewPrefab: {fileID: 0}
+    backgroundColor: {r: 1, g: 0.42138356, b: 0.44407433, a: 1}
+    productBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  products:
+  - uniqueId: 9/3/2023 12:37:39 AM_208286
+    isExpanded: 0
+    id: 0
+    tabId: 0
+    isDummy: 0
+    name: Default
+    openedSprite: {fileID: 21300000, guid: bca0747b3a2163f41920817c6a9cb220, type: 3}
+    lockedSprite: {fileID: 21300000, guid: bca0747b3a2163f41920817c6a9cb220, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: bca0747b3a2163f41920817c6a9cb220, type: 3}
+    prefab: {fileID: 7561194999377973632, guid: 30ab00797c605924093c4dc277ac8d9f,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 1
+    cost: 0
+  - uniqueId: 9/3/2023 12:38:17 AM_409972
+    isExpanded: 0
+    id: 1
+    tabId: 0
+    isDummy: 0
+    name: Second
+    openedSprite: {fileID: 21300000, guid: c6263996a3c756942bca3cb032521a35, type: 3}
+    lockedSprite: {fileID: 21300000, guid: c6263996a3c756942bca3cb032521a35, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: c6263996a3c756942bca3cb032521a35, type: 3}
+    prefab: {fileID: 7561194999377973632, guid: 29d55ceafa0e7244aab95ec3ac5eb0fc,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 2
+    cost: 3
+  - uniqueId: 9/3/2023 12:40:22 AM_487117
+    isExpanded: 0
+    id: 2
+    tabId: 0
+    isDummy: 0
+    name: Third
+    openedSprite: {fileID: 21300000, guid: 11544e39d5a86cf4d92d74a612727514, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 11544e39d5a86cf4d92d74a612727514, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: 11544e39d5a86cf4d92d74a612727514, type: 3}
+    prefab: {fileID: 7561194999377973632, guid: 1dcc893fcaebb5a46ba1b454575775ec,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 2
+    cost: 3
+  - uniqueId: 9/3/2023 12:38:53 AM_311102
+    isExpanded: 0
+    id: 3
+    tabId: 0
+    isDummy: 1
+    name: Dummy 4
+    openedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    lockedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    prefab: {fileID: 0}
+    previewPrefab: {fileID: 0}
+    purchaseType: 1
+    currency: 0
+    cost: 0
+  - uniqueId: 9/3/2023 12:38:55 AM_666987
+    isExpanded: 0
+    id: 4
+    tabId: 0
+    isDummy: 1
+    name: Dummy 5
+    openedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    lockedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    prefab: {fileID: 0}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 9/3/2023 12:39:28 AM_553560
+    isExpanded: 0
+    id: 5
+    tabId: 0
+    isDummy: 1
+    name: Dummy 6
+    openedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    lockedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    prefab: {fileID: 0}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 10/10/2023 11:43:17 AM_165985
+    isExpanded: 0
+    id: 0
+    tabId: 1
+    isDummy: 0
+    name: Frog
+    openedSprite: {fileID: 21300000, guid: 53bd67d60b03698498e1a291b667b2b4, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 53bd67d60b03698498e1a291b667b2b4, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: 53bd67d60b03698498e1a291b667b2b4, type: 3}
+    prefab: {fileID: 7561194999377973632, guid: 809a2fda3c8a91246b3396bf096d1cec,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 2
+    cost: 6
+  - uniqueId: 9/3/2023 12:40:41 AM_82457
+    isExpanded: 0
+    id: 1
+    tabId: 1
+    isDummy: 0
+    name: Cat
+    openedSprite: {fileID: 21300000, guid: 7cedc63a9803e6c43ba23adaff1aeabf, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 7cedc63a9803e6c43ba23adaff1aeabf, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: 7cedc63a9803e6c43ba23adaff1aeabf, type: 3}
+    prefab: {fileID: 7561194999377973632, guid: 3d13f4f329460da418b3541264e3c2d5,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 2
+    cost: 6
+  - uniqueId: 9/3/2023 12:44:53 AM_536455
+    isExpanded: 0
+    id: 2
+    tabId: 1
+    isDummy: 0
+    name: Demon
+    openedSprite: {fileID: 21300000, guid: 9749e9f7363fd7b4d9ac0dccda79bf71, type: 3}
+    lockedSprite: {fileID: 21300000, guid: 9749e9f7363fd7b4d9ac0dccda79bf71, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: 9749e9f7363fd7b4d9ac0dccda79bf71, type: 3}
+    prefab: {fileID: 7561194999377973632, guid: 5e3c54e28f8362c448a618519a00d6e6,
+      type: 3}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 2
+    cost: 6
+  - uniqueId: 9/3/2023 12:40:33 AM_524470
+    isExpanded: 0
+    id: 3
+    tabId: 1
+    isDummy: 1
+    name: Dummy 10
+    openedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    lockedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    prefab: {fileID: 0}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 9/3/2023 12:45:05 AM_251589
+    isExpanded: 0
+    id: 4
+    tabId: 1
+    isDummy: 1
+    name: Dummy 11
+    openedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    lockedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    prefab: {fileID: 0}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  - uniqueId: 9/3/2023 12:45:06 AM_144837
+    isExpanded: 0
+    id: 5
+    tabId: 1
+    isDummy: 1
+    name: Dummy 12
+    openedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    lockedSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    preview2DSprite: {fileID: 21300000, guid: d088c4549ad829e46ab72337d1794a0b, type: 3}
+    prefab: {fileID: 0}
+    previewPrefab: {fileID: 0}
+    purchaseType: 0
+    currency: 0
+    cost: 0
+  TabTypes: 00000000
+  coinsForAdsAmount: 2

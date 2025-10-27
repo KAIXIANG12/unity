@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8634c5cf5896bb84ca6474552cf85648, type: 3}
+  m_Name: Audio Settings
+  m_EditorClassIdentifier: 
+  music:
+    gameMusic: {fileID: 8300000, guid: 79f0adc7cbc366f449d0d1e940e1a587, type: 3}
+  sounds:
+    buttonSound: {fileID: 8300000, guid: 43778771ca132fe44baa768ab4be8bc2, type: 3}
+    winSound: {fileID: 8300000, guid: fcf0a5d733aff1940922efc1eb4fffd2, type: 3}
+    looseSound: {fileID: 8300000, guid: 9b7dfabb4e388ea41a9b91b7937e8367, type: 3}
+    bounce: {fileID: 8300000, guid: 631447795e2e299408874694cca577f3, type: 3}
+    bounceSpawn: {fileID: 8300000, guid: 82b6a62155ec2f34db64fa647c64cfb4, type: 3}
+  vibrations:
+    shortVibration: 20
+    longVibration: 50
